@@ -1,4 +1,4 @@
-# QA Advanced Git Lab
+# QA Automation Git Workflows
 
 This repository is part of a larger QA Automation project and focuses on mastering **Git version control workflows** used in real-world software development teams.
 
